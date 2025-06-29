@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-eight-theta-27.vercel.app/api/top-langs/?username=yuta-ssk&layout=compact&show_icons=true&theme=onedark&hide=css,scss,mdx,md" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-eight-theta-27.vercel.app/api/top-langs/?username=yuta-ssk&layout=compact&show_icons=true&theme=onedark&hide=html,css,scss,mdx,md" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-eight-theta-27.vercel.app/api?username=yuta-ssk&theme=onedark&show_icons=true" />
 </p>
